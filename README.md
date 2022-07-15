@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
- 
+ <Strong>📧Email📧</Strong><br/>
+ sk985326@naver.com
 </p>
 
 
@@ -23,5 +24,4 @@ Main Stack
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=Java&logoColor=white"/>
 </p>
