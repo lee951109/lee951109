@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=CDE4AD&fontColor=DDCA9B&height=300&section=header&text=Welcome!&fontSize=90&desc=JiHyun's%20github!!&descAlign=65&&descAlignY=70 )
+
 
 <!--
 **lee951109/lee951109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
