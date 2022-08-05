@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-⭐️ used Stack
+⭐️ 사용해본 Stack!
 </p>
 
 <p align="center" display="inline-block">
@@ -38,5 +38,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=AngularJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white"/>
 </p>
 
